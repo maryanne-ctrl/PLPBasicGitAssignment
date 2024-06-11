@@ -1,2 +1,2 @@
 
-Hello, Git!
+Hello, Git! My name is Maryanne. I am Learning basic git commands.
